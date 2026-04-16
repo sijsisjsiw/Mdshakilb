@@ -5,8 +5,17 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-04-12T06:41:30.510Z",
-		"lastAccessed": "2026-04-12T06:41:30.511Z"
+		"creation": "2026-04-16T18:06:14.426Z",
+		"lastAccessed": "2026-04-16T18:06:14.430Z"
+	},
+	{
+		"key": "datr",
+		"value": "1kPZaUxtEZK-05o-gsQX3O--",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-04-16T18:06:14.430Z",
+		"lastAccessed": "2026-04-16T18:06:14.430Z"
 	},
 	{
 		"key": "pas",
@@ -14,34 +23,34 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-04-12T06:41:30.511Z",
-		"lastAccessed": "2026-04-12T06:41:30.511Z"
+		"creation": "2026-04-16T18:06:14.430Z",
+		"lastAccessed": "2026-04-16T18:06:14.430Z"
 	},
 	{
 		"key": "fr",
-		"value": "0TtC6h5zSlGVytuVQ.AWdmB_FGMi4GYtpE9hR2NCueNa0xPcjUu4Bh3ijddhLBk9UBzhs.Bo0lbr..AAA.0.0.Bp2zyn.AWeixZd_C_-SU1PDgU8lWmouQfw",
+		"value": "0TtC6h5zSlGVytuVQ.AWeCMi_Qf_SDdrSBCxiIyiRlnW0zKsH3rnri6EF7Rt7HK1_q7Q4.Bo0lbr..AAA.0.0.Bp4ST3.AWc4gLKfLjx_3aR7tg-DU01WTyU",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-04-12T06:41:30.511Z",
-		"lastAccessed": "2026-04-12T06:41:30.511Z"
+		"creation": "2026-04-16T18:06:14.430Z",
+		"lastAccessed": "2026-04-16T18:06:14.430Z"
 	},
 	{
 		"key": "fbl_st",
-		"value": "101331223%3BT%3A29599593",
+		"value": "100738477%3BT%3A29606045",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-04-12T06:41:30.511Z",
-		"lastAccessed": "2026-04-12T06:41:30.511Z"
+		"creation": "2026-04-16T18:06:14.430Z",
+		"lastAccessed": "2026-04-16T18:06:14.430Z"
 	},
 	{
 		"key": "wl_cbv",
-		"value": "v2%3Bclient_version%3A3141%3Btimestamp%3A1775975591",
+		"value": "v2%3Bclient_version%3A3145%3Btimestamp%3A1776362744",
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2026-04-12T06:41:30.511Z",
-		"lastAccessed": "2026-04-12T06:41:30.511Z"
+		"creation": "2026-04-16T18:06:14.430Z",
+		"lastAccessed": "2026-04-16T18:06:14.430Z"
 	}
 ]
